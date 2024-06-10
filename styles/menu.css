@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;    
+}
+
+body{
+    margin: 20px;
+    padding: 20px;
+    
+}
+header{
+    display: grid;
+    
+}
+
+ul{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    grid-row: auto;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+
+ 
+}
+
+a{
+    
+    text-decoration: none;
+    color: greenyellow;
+}
+
+.nav_cours{
+display: block;
+
+}
